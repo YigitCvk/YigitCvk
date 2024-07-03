@@ -79,3 +79,4 @@ Hello! I'm Yiğit Çevik, a backend developer with over 2 years of experience in
 </p>
 
 
+![snake gif](https://github.com/YigitCvk/YigitCvk/blob/output/snake.svg)

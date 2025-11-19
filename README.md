@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
 <p align="center">
-📫 How to reach me <strong>me@yigitcevik.dev</strong> 
+📫 How to reach me <strong>yigitcevik@icloud.com</strong> 
 </p>
 
 <h3 align="center">Connect with me:</h3>
